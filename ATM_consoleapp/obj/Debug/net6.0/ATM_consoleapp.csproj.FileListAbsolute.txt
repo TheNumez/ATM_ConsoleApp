@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ATM_consoleapp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ATM_consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ATM_consoleapp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ATM_consoleapp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ATM_consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\bin\Debug\net6.0\ATM_consoleapp.exe
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\bin\Debug\net6.0\ATM_consoleapp.deps.json
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\bin\Debug\net6.0\ATM_consoleapp.runtimeconfig.json
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\bin\Debug\net6.0\ATM_consoleapp.dll
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\bin\Debug\net6.0\ATM_consoleapp.pdb
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ATM_consoleapp.dll
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\refint\ATM_consoleapp.dll
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ATM_consoleapp.pdb
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ATM_consoleapp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Projekty_Github\c# ATM\ATM_consoleapp\ATM_consoleapp\obj\Debug\net6.0\ref\ATM_consoleapp.dll
